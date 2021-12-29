@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Percentage Calculator</string>
+    <string name="out_of">Out Of</string>
+    <string name="percentage_obtained">Percentage Obtained :</string>
+    <string name="marks_obtained">Marks Obtained</string>
+    <string name="out_of_marks">Out of Marks</string>
+    <string name="calculate">Calculate</string>
+    <string name="_0">0%</string>
+</resources>
